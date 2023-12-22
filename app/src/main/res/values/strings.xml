@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EnergyResourcesTestApp</string>
+    <string name="text_field_hint">Адрес сервера</string>
+    <string name="button_connection_text">Подключение</string>
+    <string name="tv_organization_text">Организация:</string>
+    <string name="tv_version_text">Версия:</string>
+    <string name="tv_version_update_pack_text">Пакет обновлений:</string>
+    <string name="tittle_app_bar_connection_fragment">Подключение к серверу</string>
+    <string name="tittle_app_bar_info_server_fragment">Информация о сервере</string>
+    <string name="msg_error_format_address">Неверный формат адреса сервера</string>
+    <string name="msg_error_network">Проверьте подключение к интернету и правилность введенного адреса</string>
+    <string name="msg_error_server">Сервер не доступен</string>
+    <string name="msg_error_method">Не найден обработчик метода</string>
+    <string name="default_address_server">https://pyramiduserx.sicon.ru:8882/GetServerInfo</string>
+    <string name="btn_text_ok">ОК</string>
+</resources>
